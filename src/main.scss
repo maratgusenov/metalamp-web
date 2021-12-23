@@ -1,0 +1,18 @@
+@use "./color-and-type/colors.scss";
+
+@use "./color-and-type/fonts.scss";
+
+.wrapper {
+    max-width: 1920px;
+    min-width: 320px;
+    margin: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+};
+
+.container {
+    max-width: 1440px;
+    margin: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
